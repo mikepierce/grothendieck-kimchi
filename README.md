@@ -4,6 +4,6 @@ An English translation of Alexander Grothendieck's writing on kimchi formatted i
 
 To anyone who updates the translation, please leave notes in the next section of this README.md to guide the next translator. :) 
 
-# Notes/Todo
+# Notes for Translatores
 
- - So far the file just contains an OCR reading PDF in French. It's separated into sections 1--7, which you can see enumerated by hand in the PDF.
+ - So far the file `kimchi.html` just contains an OCR rending of the original PDF in French. It's separated into sections 1–7, which you can see enumerated by hand in the PDF. The file is HTML because the translated version will eventually be hosted on the web, but I can take care of any HTML markup; this project primarily needs people who can translate French to English. 
