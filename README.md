@@ -1,7 +1,7 @@
 # Grothendieck's Kimchi
 
 An English translation of Alexander Grothendieck's writing on kimchi.
-I little to do with its translation; 
+I have little to do with its translation; 
 I'm just organizing/crowdsourcing/open-sourcing the translation here on GitHub. 
 A scan of the original French can be found 
 [here on Thibault Damour's website](http://www.ihes.fr/~damour/IMAGE/kimchi_grothendieck.pdf). 
@@ -9,13 +9,12 @@ A live version of this translation can be found at
 [math.ucr.edu/~mpierce/kimchi](http://math.ucr.edu/~mpierce/kimchi/).
 
 So far the files `one.html` … `seven.html` contain an imperfect OCR parsing 
-of the original PDF in French. The file is HTML because I'm hosting it on the web. 
-
+of the original PDF in French. 
 
 ## Suggested Workflow
 
 Each file `one.html` … `seven.html` contains a list of lines to be translated,
-each followed by a newline.
+each followed by a blank line.
 
     Le Kimchi est une préparation de légumes fermentés,
     
@@ -35,7 +34,7 @@ Translators should (1) fix any errors in the OCR-parsed French line,
     <!-- à la façon traditionelle coréenne. -->
     in the traditional Korean way.
 
-The idea is that the original French should be preserved here
+The original French should be preserved here
 to aid in future translations to other languages.
 
 
