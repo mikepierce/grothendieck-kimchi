@@ -8,8 +8,14 @@ A scan of the original French can be found
 A live version of this translation can be found at 
 [math.ucr.edu/~mpierce/kimchi](http://math.ucr.edu/~mpierce/kimchi/).
 
-So far the files `one.html` … `seven.html` contain an imperfect OCR parsing 
-of the original PDF in French. 
+
+## TODO / Contributing
+
+The files `four.html`, `six.html`, and `seven.html` contain an imperfect OCR parsing 
+of the original PDF in French, and still need to be translated. If you're unfamiliar
+with all the ins-and-outs of GitHub but want to help, feel free to email 
+me a translations of those files and I'll deal with the technical stuff ;)
+
 
 ## Suggested Workflow
 
@@ -22,7 +28,6 @@ each followed by a blank line.
     
     à la façon traditionelle coréenne.
     
-
 These lines are the imperfect OCR parsing of the PDF linked to above. 
 Translators should (1) fix any errors in the OCR-parsed French line,
 (2) translate the line to English, and (3) comment out the line in French.
