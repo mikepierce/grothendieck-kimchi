@@ -12,9 +12,12 @@ A live version of this translation can be found at
 ## TODO / Contributing
 
 The files `six.html` and `seven.html` contain an imperfect OCR parsing 
-of the original PDF in French, and still need to be translated. If you're unfamiliar
-with all the ins-and-outs of GitHub but want to help, feel free to email 
-me a translations of those files and I'll deal with the technical stuff ;)
+of the original PDF in French, and still need to be translated. 
+If you'd like to claim one of these to be translated, 
+open up an Issue for it and let me assign you to that issue.
+If you're unfamiliar with all the ins-and-outs of GitHub but want to help, 
+feel free to email me a translations of those files 
+and I'll deal with the technical stuff ;)
 
 
 ## Suggested Workflow
