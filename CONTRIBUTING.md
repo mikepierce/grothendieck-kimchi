@@ -25,9 +25,9 @@ here are a few things I'd prefer contributors keep in mind:
     of the translation for, feel free to leave it untranslated 
     and mark it with a sidenote using this syntax from Tufte CSS:
     
-    <label for="sn-TAG" class="margin-toggle sidenote-number"></label>
-    <input type="checkbox" id="sn-TAG" class="margin-toggle"/>
-    <span class="sidenote">SIDENOTE TEXT HERE</span>
+        <label for="sn-TAG" class="margin-toggle sidenote-number"></label>
+        <input type="checkbox" id="sn-TAG" class="margin-toggle"/>
+        <span class="sidenote">SIDENOTE TEXT HERE</span>
 
     But, respecting line-breaks, that entire block should be kept inline.
     Also consider creating an [issues](https://github.com/mikepierce/grothendieck-kimchi/issues)
