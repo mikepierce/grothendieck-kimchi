@@ -1,7 +1,5 @@
 [![Screenshot of the Website](https://raw.githubusercontent.com/mikepierce/grothendieck-kimchi/master/screenshot.png)](https://mikepierce.github.io/grothendieck-kimchi)
 
----
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
