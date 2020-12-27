@@ -9,9 +9,7 @@ A scan of the original French can be found
 [here](http://www.ihes.fr/~damour/IMAGE/kimchi_grothendieck.pdf). 
 If you don't know what kimchi is, then I encourage you to 
 [watch this](https://youtu.be/W4hvneKcPZI).
-The typesetting of this page is adapted from 
-[Tufte CSS](https://edwardtufte.github.io/tufte-css).
-A live version of this translation can be found at 
+A live, and nicely typeset, version of this translation can be found at 
 [mikepierce.github.io/grothendieck-kimchi](https://mikepierce.github.io/grothendieck-kimchi).
 
 
