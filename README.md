@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
+
 # Grothendieck's Musings on Kimchi
 
 This is a working English translation of Alexander Grothendieck's essay on kimchi.
