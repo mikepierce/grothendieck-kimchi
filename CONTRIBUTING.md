@@ -12,17 +12,38 @@ there are some guidelines to adhere to to keep organized.
 
 ## Guidelines on Translating
 
-To keep an organized translation workflow,
+Check out the [issues page](https://github.com/mikepierce/grothendieck-kimchi/issues)
+for anything that needs to be translated.
+In general, to keep an organized translation workflow,
 here are a few things I'd prefer contributors keep in mind:
+
+  - **When translating, respect the linesbreaks.** 
+    This way, between the files containing the French and English 
+    and any future translations, we can compare the text line-by-line.
+
+  - If there is a word or phrase that you're unsure 
+    of the translation for, feel free to leave it untranslated 
+    and mark it with a sidenote using this syntax from Tufte CSS:
+    
+    <label for="sn-TAG" class="margin-toggle sidenote-number"></label>
+    <input type="checkbox" id="sn-TAG" class="margin-toggle"/>
+    <span class="sidenote">SIDENOTE TEXT HERE</span>
+
+    But, respecting line-breaks, that entire block should be kept inline.
+    Also consider creating an [issues](https://github.com/mikepierce/grothendieck-kimchi/issues)
+    for it.
+
+  - If you'd like to start/create a new translation,
+    please translate from the original French.
+    This is so that we don't indavertantly accumulate 
+    drastic changes in the meaning of the writing.
+    ([à la the telephone game](https://en.wikipedia.org/wiki/Telephone_(game))).
+    The French version can be found [scanned here](http://www.ihes.fr/~damour/IMAGE/kimchi_grothendieck.pdf) 
+    or [typeset here](https://mikepierce.github.io/grothendieck-kimchi/translations/french/).
+    If you translate from the English, that's fine 
+    but we should start an issue requesting that someone who also knows French
+    can proofread it.
 
   - If you'd like to talk about the accuracy of an existing translation,
     bring it up on the [discussions page](https://github.com/mikepierce/grothendieck-kimchi/discussions).
-
-  - If you'd like to create a new translations
-  
-  The original French can be found [scanned here]()
-
-
-
-
 
