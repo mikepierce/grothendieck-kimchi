@@ -22,5 +22,3 @@ A live, and nicely typeset, version of this translation can be found at
 
 To anyone who likes translating French → English, 
 notice this project to [translate Grothendieck's SGA](https://github.com/jmoellermath/translate-SGAI).
-
-# Test change
