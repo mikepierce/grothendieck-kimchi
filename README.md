@@ -14,7 +14,7 @@ If you'd like to contribute to this project
 (make suggestions for this English translation,
 make corrections to the French transcription,
 create a new translation, improve this website, etc) see 
-[contributing.md](https://mikepierce.github.io/grothendieck-kimchi/)
+[contributing.md](https://github.com/mikepierce/grothendieck-kimchi/blob/master/CONTRIBUTING.md)
 and please add your voice to the 
 [discussions page](https://github.com/mikepierce/grothendieck-kimchi/discussions).
 
